@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="24px" height="30px" viewBox="0 0 24 30" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+    <rect x="0" y="6.90107" width="4" height="17.1979" fill="#333" style="&#10;    fill: #560a8c;&#10;">
+      <animate attributeName="height" attributeType="XML" values="5;21;5" begin="0s" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" attributeType="XML" values="13; 5; 13" begin="0s" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="10.9011" width="4" height="9.19787" fill="#333" style="&#10;    fill: #9d55d0;&#10;">
+      <animate attributeName="height" attributeType="XML" values="5;21;5" begin="0.15s" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" attributeType="XML" values="13; 5; 13" begin="0.15s" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="20" y="11.0989" width="4" height="8.80213" fill="#333" style="&#10;    fill: #560a8c;&#10;">
+      <animate attributeName="height" attributeType="XML" values="5;21;5" begin="0.3s" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" attributeType="XML" values="13; 5; 13" begin="0.3s" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
